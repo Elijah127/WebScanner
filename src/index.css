@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+    background-image: url("./assets/bgimg.jpg");
+}
+
+video {
+    border-radius: 10px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
